@@ -31,3 +31,4 @@ https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 
 ## My Certificate of Completion
+![certification](https://github.com/laxmi501/JP-Morgan-Chase-Co.-Software-Engineering_JobSimulation-/blob/d5f0f103f70ae2616a22fcfbd117dc0f2c66053f/JP%20Morgan_SDE%20_Certificate.pdf)
